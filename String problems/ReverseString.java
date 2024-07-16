@@ -1,5 +1,3 @@
-package spring_Pract;
-
 public class ReverseString
 {
     public static void main(String[] args)
@@ -14,7 +12,5 @@ public class ReverseString
         }
 
         System.out.println(ans);
-
-
     }
 }

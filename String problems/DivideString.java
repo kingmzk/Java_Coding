@@ -1,4 +1,3 @@
-package spring_Pract;
 
 public class DivideString
 {

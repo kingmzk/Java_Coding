@@ -1,4 +1,3 @@
-package spring_Pract;
 
 public class Rotation_Of_String {
     public static void main(String[] args) {

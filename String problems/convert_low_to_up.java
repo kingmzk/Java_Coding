@@ -1,5 +1,3 @@
-package spring_Pract;
-
 public class convert_low_to_up
 {
     public static void main(String[] args)

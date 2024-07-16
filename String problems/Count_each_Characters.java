@@ -1,4 +1,3 @@
-package spring_Pract;
 
 // Java program for the above approach
 class Count_each_Characters{
