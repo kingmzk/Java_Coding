@@ -1,5 +1,5 @@
 
-class factorial
+class factorials
 {
      public static int printN(int n)
      {

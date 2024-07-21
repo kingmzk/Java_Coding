@@ -1,5 +1,8 @@
 package programme;
 
+import java.util.Arrays;
+
+
 public class Armstrong
 {
     public static void main(String[] args)
@@ -13,6 +16,7 @@ public class Armstrong
               temp = temp / 10;
         }
         System.out.println(length);
+
         int temp1 = n;
         int armstrong = 0;
         int rem;

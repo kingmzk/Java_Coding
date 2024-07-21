@@ -75,12 +75,12 @@ class ArrayLists
     //  Collections.swap(list,0,3);
     //  System.out.print(list);
 
-    // Write a Java program to join two array lists.
-    // ArrayList<String> list3 = new ArrayList<String>();
-    // list3.add("Hello");
-    // list3.add("world");
-    // list.addAll(list3);
-    // System.out.print(list);
+   //  Write a Java program to join two array lists.
+     ArrayList<String> list3 = new ArrayList<String>();
+     list3.add("Hello");
+     list3.add("world");
+     list.addAll(list3);
+     System.out.print(list);
 
 
     // Write a Java program to clone an array list to another array list.

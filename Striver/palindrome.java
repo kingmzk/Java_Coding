@@ -5,7 +5,6 @@
         System.out.println("String 1 is :  " + isPalindrome(s1));
         System.out.println("String 2 is :  " + isPalindrome(s2));
     }
-
     public static boolean isPalindrome(String word) {
         if(word.length()<=1) return true;
         if(word.charAt(0) != word.charAt(word.length()-1)) return false;
