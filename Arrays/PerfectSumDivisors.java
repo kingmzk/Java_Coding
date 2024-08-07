@@ -15,14 +15,11 @@ public class PerfectSumDivisors {
                     sum += j;
                 }
             }
-            System.out.println(sum);
-            System.out.println(arr[i]);
+
             if(sum == arr[i]){
                 System.out.println("yes");
             }
             else System.out.println("No");
-
         }
-
     }
 }
