@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff9c06d5-2aa3-4cc2-be0e-f5ecf273fb7c" name="Changes" comment="added_New_Programmes">
+      <change afterPath="$PROJECT_DIR$/Arrays/Remove_duplicate_sorted_array_2_modified_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Best_TIme_To_Buy_And_SellStock_122_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Best_Time_To_Buy_And_SellStock_121_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/MajorityElement_169_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Merge_Sorted_Array_88_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/RemoveElement_27_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Remove_Duplicate_From_Sorted_Array_26_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Remove_Duplicate_From_Sorted_Array_2_80_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_interview_Top_150/Rotate_Array_189_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortAlgo/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortAlgo/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String problems/Longest_Palindrome_409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String problems/Longest_Substring_Without_Repeating_Characters_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortAlgo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortAlgo/BubbleSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jJf4jfTFkD1eGmgtpLF8LY5ZxP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Add_Two_Numbers_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BestTimeToBuyAndSellStock_121.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Best_Time_To_Buy_And_SellStock_121_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contains_Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contains_Duplicate_217.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountCharacterOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountTheWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWordsStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_each_Characters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateWordsInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindFastAndLastPositionInSorted_34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Peak_Element_162.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Bad_Version_278.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Unique_Character_in_a_String_387.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Palindrome_409.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Substring_Without_Repeating_Characters_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement_169_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_Sorted_Array_88_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros_283.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No_Of_Island_TwoDimension.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pascal_Triangle_118.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakIndexInaMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectSumDivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo_231.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement_27_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_Duplicate_From_Sorted_Array_26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_duplicate_sorted_array_2_modified_80.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStringCharacters_344.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStringWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Linked_List_206.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Robot_Return_to_Origin_657.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotate_Array_189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotate_Array_189_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArrayByIncreasingFrequency_1636.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Squares_of_a_Sorted_Array_977.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumTwo_167.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParantheses_20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.convert_low_to_up.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fabonacci.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff9c06d5-2aa3-4cc2-be0e-f5ecf273fb7c" name="Changes" comment="" />
+      <created>1721109917258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721109917258</updated>
+      <workItem from="1721109924685" duration="14632000" />
+      <workItem from="1721194455915" duration="11380000" />
+      <workItem from="1721286685142" duration="3451000" />
+      <workItem from="1721315444743" duration="366000" />
+      <workItem from="1721575084901" duration="5947000" />
+      <workItem from="1721625430965" duration="10544000" />
+      <workItem from="1721750509077" duration="1534000" />
+      <workItem from="1722250437076" duration="3942000" />
+      <workItem from="1722318182579" duration="8702000" />
+      <workItem from="1722401595946" duration="3842000" />
+      <workItem from="1722588487750" duration="6829000" />
+      <workItem from="1722778192758" duration="748000" />
+      <workItem from="1722779743043" duration="5720000" />
+      <workItem from="1723010350405" duration="7653000" />
+      <workItem from="1723095758464" duration="1817000" />
+      <workItem from="1723109561688" duration="1148000" />
+      <workItem from="1723181029636" duration="9874000" />
+      <workItem from="1723386727334" duration="4024000" />
+      <workItem from="1723444736644" duration="1770000" />
+      <workItem from="1728397974957" duration="602000" />
+      <workItem from="1728636505728" duration="2719000" />
+      <workItem from="1728975048128" duration="11418000" />
+      <workItem from="1729009271645" duration="1176000" />
+      <workItem from="1729589434553" duration="4150000" />
+      <workItem from="1729706064775" duration="1350000" />
+      <workItem from="1729744635885" duration="2474000" />
+      <workItem from="1729754678500" duration="65000" />
+    </task>
+    <task id="LOCAL-00001" summary="added_Programmes">
+      <option name="closed" value="true" />
+      <created>1721581047356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721581047356</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added_Programmes">
+      <option name="closed" value="true" />
+      <created>1722271266879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722271266879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added_New_Programmes">
+      <option name="closed" value="true" />
+      <created>1723047029747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723047029747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added_Programmes" />
+    <MESSAGE value="added_New_Programmes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added_New_Programmes" />
+  </component>
+</project>
